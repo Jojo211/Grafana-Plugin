@@ -17,5 +17,5 @@
   "dependencies": {
     "grafanaVersion": "3.x.x",
     "plugins": [ ]
-  }
+  }s
 }
