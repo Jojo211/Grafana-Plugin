@@ -1,0 +1,21 @@
+{
+  "type": "panel",
+  "name": "checkbox",
+  "id": "grafana-checkbox-panel",
+
+  "info": {
+    "description": "Graph with checkbox for events",
+    "author": {
+      "name": "Raintank Inc.",
+      "url": "http://raintank.io"
+    },
+    "keywords": ["checkbox", "panel"],
+    "version": "1.0.0",
+    "updated": "2015-03-24"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "3.x.x",
+    "plugins": [ ]
+  }
+}
